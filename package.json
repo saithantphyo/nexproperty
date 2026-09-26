@@ -1,0 +1,5 @@
+{
+  "name":"shwe-property-pro","version":"1.0.0","description":"Myanmar real-estate listing website with admin dashboard",
+  "main":"server.js","scripts":{"start":"node server.js","dev":"node server.js"},
+  "dependencies":{"express":"^5.1.0","multer":"^2.0.2","better-sqlite3":"^12.4.1","express-session":"^1.18.2"}
+}
